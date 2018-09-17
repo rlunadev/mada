@@ -1,1 +1,2 @@
-Soy un pack de ejemplos antiguos del projecto
+Pack de ejemplos antiguos del projecto.<br>
+php espagueti
